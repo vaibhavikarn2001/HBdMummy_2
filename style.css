@@ -1,0 +1,66 @@
+h1{
+    font-family: 'Fredericka the Great', cursive;
+    color: aqua;
+    font-size: 50px;
+}
+#centered{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    transform: translate(0%, 100%);
+      color: white;
+      font-size: 60px;
+    
+    
+}
+body{
+    background-color: black;
+}
+footer{
+    background-color:rgb(42, 35, 49);
+    color: white;
+    height:200px;
+    font-family: 'Sacramento', cursive;
+}
+.centered1{
+    position: absolute;
+    top: 14%;
+    left: 45%;
+    transform: translate(0%, 100%);
+
+    border-radius: 150px;
+    animation: text 5s;
+
+}
+a{
+    color:white}}
+@keyframes text{
+    0%{
+        margin-bottom:-40px;
+        color:black;
+
+    }
+    30%{
+        margin-bottom:-40px;
+        color:black;
+
+    }
+    85%{
+        margin-bottom: -40px;
+        color:black;
+
+    }
+}
+section{
+    background-color: black;
+}
+#centered2{
+    position: absolute;
+    top: 85%;
+    left: 30%;
+    transform: translate(0%, 100%);
+   
+    
+    
+
+}
